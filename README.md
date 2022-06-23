@@ -1,7 +1,6 @@
 # Mobile-Architect-Programming
 
-
-    Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
+Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
     
     This application allows the users to create a user account using a username and password which is added to a database. Once login the user is asked for permission to send SMS messages when items in the inventory are low. The next screen allows the user to add, delete, update, and read all items in inventory.  
     
@@ -19,5 +18,6 @@ During the testing phase I found many problems with my code and had to go back a
     
     In what specific component from your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
 The specific component I did the best on was the login screen it checks that both username and password are not empty and checks they are in the database.
+
 
 
